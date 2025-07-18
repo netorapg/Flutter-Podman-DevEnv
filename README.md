@@ -117,4 +117,4 @@ Este `Containerfile` foi otimizado para performance e praticidade:
 Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request* para melhorar este ambiente de desenvolvimento.
 
 ---
-Feito com ❤️ por [Seu Nome ou Nickname]
+Feito com ❤️ por netorapg
